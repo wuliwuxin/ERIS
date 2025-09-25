@@ -310,20 +310,6 @@ We compare ERIS against state-of-the-art methods from four categories:
 - **EGC** (ICCV'23): Energy-guided diffusion-based model
 - **Golan et al.** (NeurIPS'24): Adversarialy-trained energy-based classification
 
-## Acknowledgments
-
-### Institutional Support
-- **Southwest Jiaotong University**: School of Computing and Artificial Intelligence
-- **Hong Kong University of Science and Technology**: Research collaboration and support
-- **Engineering Research Center of Sustainable Urban Intelligent Transportation**: Ministry of Education funding and resources
-
-### Special Recognition
-- **Anonymous Reviewers**: For constructive feedback that significantly improved the work
-- **Open Source Community**: For maintaining the tools and libraries that made this research possible
-- **Academic Conferences**: AAAI, ICLR, KDD, NeurIPS for providing platforms to share and advance research
-
-*This work builds upon the collective efforts of the machine learning and time series analysis communities. We are grateful for the open science practices that enable reproducible research and collaborative progress.*
-
 ---
 
 **⭐ If you find ERIS helpful, please consider giving us a star!**
