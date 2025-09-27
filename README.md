@@ -265,7 +265,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##  Contact
 
-- **Xin Wu**: xinwu5386@gmail.com
+- **Xin Wu**: xinwu5386@gmail.com or wu1351658806@163.com
 - **Fei Teng** (Corresponding Author): fteng@swjtu.edu.cn
 
 ## Citation
@@ -305,11 +305,9 @@ We compare ERIS against state-of-the-art methods from four categories:
 - **MPTSNet** (AAAI'25): [MPTSNet](https://github.com/MUYang99/MPTSNet)
 
 ### Energy-Based Methods
-- **EOW-Softmax** (ICCV'21): Energy-based open-world uncertainty modeling
-- **ELI** (CVPR'22): Energy-based latent aligner for incremental learning
-- **EGC** (ICCV'23): Energy-guided diffusion-based model
-- **Golan et al.** (NeurIPS'24): Adversarialy-trained energy-based classification
-
----
+- **EOW-Softmax** (ICCV'21): [Energy-based open-world uncertainty modeling](https://github.com/BIGKnight/Energy-Based-Open-World-Uncertainty-Modeling-for-Confidence-Calibration)
+- **ELI** (CVPR'22): [Energy-based latent aligner for incremental learning](https://github.com/JosephKJ/ELI)
+- **EGC** (ICCV'23): [Energy-guided diffusion-based model](https://github.com/GuoQiushan/EGC)
+- **Golan et al.** (NeurIPS'24): [Adversarialy-trained energy-based classification](https://github.com/Shelley-Golan/Boosting-via-Joint-Model)
 
 **⭐ If you find ERIS helpful, please consider giving us a star!**
