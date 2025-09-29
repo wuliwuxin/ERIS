@@ -273,11 +273,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use ERIS in your research, please cite:
 
 ```bibtex
-@article{wu2025eris,  
-    title={ERIS: An Energy-Guided Feature Disentanglement Framework for Out-of-Distribution Time Series Classification},  
-    author={Wu, Xin and Teng, Fei and Zhang, Ji and Li, Xingwang and Liang, Yuxuan},  
-    journal={arXiv preprint arXiv:2508.14134},  
-    year={2025}
+@misc{wu2025erisenergyguidedfeaturedisentanglement,
+      title={ERIS: An Energy-Guided Feature Disentanglement Framework for Out-of-Distribution Time Series Classification}, 
+      author={Xin Wu and Fei Teng and Ji Zhang and Xingwang Li and Yuxuan Liang},
+      year={2025},
+      eprint={2508.14134},
+      archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2508.14134}, 
 }
 ```
 
